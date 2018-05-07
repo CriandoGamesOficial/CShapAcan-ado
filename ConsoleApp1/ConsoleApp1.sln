@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCshap", "Estrutura
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constutores_Overloads", "Constutores_Overloads\Constutores_Overloads.csproj", "{5C4687BD-E69D-45CA-A669-39382C3A72B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inicializando_Objetos", "Inicializando_Objetos\Inicializando_Objetos.csproj", "{19A73BAD-BBAF-4B82-B08F-C2EE9CC0577A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5C4687BD-E69D-45CA-A669-39382C3A72B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C4687BD-E69D-45CA-A669-39382C3A72B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C4687BD-E69D-45CA-A669-39382C3A72B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A73BAD-BBAF-4B82-B08F-C2EE9CC0577A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A73BAD-BBAF-4B82-B08F-C2EE9CC0577A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A73BAD-BBAF-4B82-B08F-C2EE9CC0577A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A73BAD-BBAF-4B82-B08F-C2EE9CC0577A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
